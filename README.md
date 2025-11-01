@@ -252,8 +252,8 @@ Contributions are welcome! Please feel free to submit a Pull Request. For major 
 
 ## 👤 Author & Credits
 
-**Project by:** [Your Name]  
-**Institution:** IIIT Kota, Computer Science (2025)  
+**Project by:** Kunal Sharma
+**Institution:** IIIT Kota, Computer Science and Engineering
 **Technical Stack:** Python, Flask, Machine Learning, UI/UX
 
 ---
