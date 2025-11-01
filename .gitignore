@@ -1,0 +1,22 @@
+# Virtual Environment
+venv/
+*.pyc
+__pycache__/
+
+# Environment Variables (NEVER COMMIT THESE!)
+.env
+.env.*
+!.env.example
+
+# Firebase Credentials
+credentials/
+*.json
+!package.json
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
